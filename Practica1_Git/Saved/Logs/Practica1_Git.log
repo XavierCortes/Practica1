@@ -1158,3 +1158,55 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.31-15.34.06:509][952]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.448
 [2020.01.31-15.34.06:523][952]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2020.01.31-15.34.06:523][952]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.SKEL_ConfusionZone_BP_C' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP_C' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP_C:ReceiveTick' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP_C:Box' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP_C:Plane' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP_C:DefaultSceneRoot' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP_C:Timer' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:153][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP_C:isInvertedAA' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:154][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.SKEL_ConfusionZone_BP_C:UserConstructionScript' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:154][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.SKEL_ConfusionZone_BP_C:Box' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:154][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.SKEL_ConfusionZone_BP_C:Plane' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:154][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.SKEL_ConfusionZone_BP_C:DefaultSceneRoot' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:154][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.SKEL_ConfusionZone_BP_C:Timer' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:154][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.SKEL_ConfusionZone_BP_C:isInvertedAA' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:154][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.SKEL_ConfusionZone_BP_C:ReceiveTick' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:154][988]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.SKEL_ConfusionZone_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.PackageMetaData'
+[2020.01.31-15.37.05:218][988]LogSavePackage: Moving '../../../../../../Users/Ortiz/Desktop/TECNOCAMPUS/3R/Motors/Practica1/Practica1_Git/Saved/ConfusionZone_BPF14452044E776C4725F8B18C6F7D11D2.tmp' to '../../../../../../Users/Ortiz/Desktop/TECNOCAMPUS/3R/Motors/Practica1/Practica1_Git/Content/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.uasset'
+[2020.01.31-15.37.05:233][988]LogSavePackage: Moving '../../../../../../Users/Ortiz/Desktop/TECNOCAMPUS/3R/Motors/Practica1/Practica1_Git/Saved/ConfusionZone_BP58E9CF404040D0A8BE937E9E0600F002.tmp' to '../../../../../../Users/Ortiz/Desktop/TECNOCAMPUS/3R/Motors/Practica1/Practica1_Git/Content/PROJECT/BLUEPRINTS/ConfusionZone_BP.uasset'
+[2020.01.31-15.37.05:311][988]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.31-15.37.05:311][988]LogContentValidation: Display: Validating Blueprint /Game/PROJECT/BLUEPRINTS/ZONES/ConfusionZone_BP.ConfusionZone_BP
+[2020.01.31-15.37.05:311][988]LogContentValidation: Display: Validating ObjectRedirector /Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.ConfusionZone_BP
+[2020.01.31-15.37.05:312][988]LogContentValidation: Display: Validating ObjectRedirector /Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.Default__ConfusionZone_BP_C
+[2020.01.31-15.37.05:312][988]LogContentValidation: Display: Validating ObjectRedirector /Game/PROJECT/BLUEPRINTS/ConfusionZone_BP.ConfusionZone_BP_C
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.DeadZone_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.DeadZone_BP_C' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.SKEL_DeadZone_BP_C' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.DeadZone_BP_C:DefaultSceneRoot' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.DeadZone_BP_C:Plane' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.DeadZone_BP_C:Box' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.DeadZone_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.SKEL_DeadZone_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.SKEL_DeadZone_BP_C:DefaultSceneRoot' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.SKEL_DeadZone_BP_C:Plane' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.SKEL_DeadZone_BP_C:Box' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:086][192]LogMetaData: Removing '/Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.SKEL_DeadZone_BP_C:UserConstructionScript' ref from Metadata '/Game/PROJECT/BLUEPRINTS/DeadZone_BP.PackageMetaData'
+[2020.01.31-15.37.07:145][192]LogSavePackage: Moving '../../../../../../Users/Ortiz/Desktop/TECNOCAMPUS/3R/Motors/Practica1/Practica1_Git/Saved/DeadZone_BP4FAAE3044AF0BB3F83F725A405565207.tmp' to '../../../../../../Users/Ortiz/Desktop/TECNOCAMPUS/3R/Motors/Practica1/Practica1_Git/Content/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.uasset'
+[2020.01.31-15.37.07:158][192]LogSavePackage: Moving '../../../../../../Users/Ortiz/Desktop/TECNOCAMPUS/3R/Motors/Practica1/Practica1_Git/Saved/DeadZone_BP5040634C44D0204EDB568C9CAF259CCE.tmp' to '../../../../../../Users/Ortiz/Desktop/TECNOCAMPUS/3R/Motors/Practica1/Practica1_Git/Content/PROJECT/BLUEPRINTS/DeadZone_BP.uasset'
+[2020.01.31-15.37.07:236][192]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.31-15.37.07:236][192]LogContentValidation: Display: Validating Blueprint /Game/PROJECT/BLUEPRINTS/ZONES/DeadZone_BP.DeadZone_BP
+[2020.01.31-15.37.07:236][192]LogContentValidation: Display: Validating ObjectRedirector /Game/PROJECT/BLUEPRINTS/DeadZone_BP.DeadZone_BP
+[2020.01.31-15.37.07:236][192]LogContentValidation: Display: Validating ObjectRedirector /Game/PROJECT/BLUEPRINTS/DeadZone_BP.Default__DeadZone_BP_C
+[2020.01.31-15.37.07:236][192]LogContentValidation: Display: Validating ObjectRedirector /Game/PROJECT/BLUEPRINTS/DeadZone_BP.DeadZone_BP_C
+[2020.01.31-15.37.52:177][550]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2020.01.31-15.37.52:544][550]LogSavePackage: Moving '../../../../../../Users/Ortiz/Desktop/TECNOCAMPUS/3R/Motors/Practica1/Practica1_Git/Saved/ThirdPersonExampleMap7E99439D4E5740D9C1347EA3D0DA721B.tmp' to '../../../../../../Users/Ortiz/Desktop/TECNOCAMPUS/3R/Motors/Practica1/Practica1_Git/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.31-15.37.52:585][550]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.01.31-15.37.52:585][550]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.31-15.37.54:189][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
