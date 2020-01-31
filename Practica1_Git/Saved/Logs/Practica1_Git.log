@@ -1210,3 +1210,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.31-15.37.52:585][550]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2020.01.31-15.37.52:585][550]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.01.31-15.37.54:189][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.01.31-15.42.28:827][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
